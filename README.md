@@ -46,7 +46,8 @@
 ```
 
 __일지 양식:__\
-[Makers_team_2024.docx](https://github.com/Shinyoung-P/2024_Summer_Makers_Day/blob/main/Makers_team_2024.docx)\
+[Makers_팀일지_양식.docx](https://github.com/Shinyoung-P/2024_Summer_Makers_Day/blob/main/Makers_%ED%8C%80%EC%9D%BC%EC%A7%80_%EC%96%91%EC%8B%9D.docx
+)\
 [노션 주소](https://www.notion.so/smarcle/Study-Room-fa75995276784bc2bcd871b9c949c6ab): SMARCLE의 Notion/Study Room/N팀/페어1, 2
 
 ### 대면 관련사항
@@ -87,8 +88,7 @@ __일지 양식:__\
 ```
 
 __해결 방안서:__\
-[불참해결방안서.pdf]()
-[메이커스데이불참해결방안서.docx]()
+[Makers_불참해결방안서_양식.docx](https://github.com/Shinyoung-P/2024_Summer_Makers_Day/blob/main/Makers_%EB%B6%88%EC%B0%B8%ED%95%B4%EA%B2%B0%EB%B0%A9%EC%95%88%EC%84%9C_%EC%96%91%EC%8B%9D.docx)
 
 
 ---
