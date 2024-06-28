@@ -153,5 +153,7 @@ __해결 방안서:__\
 
 
 
-## 문의
+## 참고사항
 - 운영진: 박신영, 현희섭, 김민성
+- [2023 Summer Maker's Day](https://github.com/sejongsmarcle/2023_Summer_Makers_Day)
+- [2022 Summer Maker's Day](https://github.com/sejongsmarcle/2022_Summer_Makers_Day)
