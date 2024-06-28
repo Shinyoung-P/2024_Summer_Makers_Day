@@ -46,7 +46,7 @@
 ```
 
 __일지 양식:__\
-[Makers_페어_일지양식_2023.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/12061787/Makers_._._2023.docx)\
+[Makers_team_2024.docx](https://github.com/Shinyoung-P/2024_Summer_Makers_Day/blob/main/Makers_team_2024.docx)\
 [노션 주소](https://www.notion.so/smarcle/Study-Room-fa75995276784bc2bcd871b9c949c6ab): SMARCLE의 Notion/Study Room/N팀/페어1, 2
 
 ### 대면 관련사항
